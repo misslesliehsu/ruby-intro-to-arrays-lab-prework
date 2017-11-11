@@ -29,6 +29,3 @@ end
 def length_of_array
   array.length_of_array
 end
-
-
-
